@@ -31,9 +31,6 @@
               "node_modules/primeicons/primeicons.css",
               "node_modules/primeng/resources/themes/nova-light/theme.css",
               "node_modules/primeng/resources/primeng.min.css",
-              "node_modules/@fullcalendar/common/main.css",
-              "node_modules/@fullcalendar/daygrid/main.css",
-              "node_modules/@fullcalendar/timegrid/main.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -131,5 +128,8 @@
       }
     }
   },
-  "defaultProject": "ppap"
+  "defaultProject": "ppap",
+  "cli": {
+    "analytics": "de8b951a-7b75-4f81-83b9-c7e10c19ba19"
+  }
 }
